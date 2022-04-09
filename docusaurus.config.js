@@ -9,7 +9,7 @@ const config = {
   title: 'FRC 467 Programming Docs',
   tagline: 'Robots are cool',
   url: 'https://adamcraftmaster.github.io',
-  baseUrl: '/',
+  baseUrl: '/467-Programming-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
