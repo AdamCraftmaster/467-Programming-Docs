@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>FRC 467 Programming Docs Blog</title>
-        <link>https://adamcraftmaster.github.io/blog</link>
+        <link>https://adamcraftmaster.github.io/467-Programming-Docs/blog</link>
         <description>FRC 467 Programming Docs Blog</description>
         <lastBuildDate>Sat, 09 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Started documentation work]]></title>
-            <link>https://adamcraftmaster.github.io/blog/2022/04/09/getting-started</link>
+            <link>https://adamcraftmaster.github.io/467-Programming-Docs/blog/2022/04/09/getting-started</link>
             <guid>/2022/04/09/getting-started</guid>
             <pubDate>Sat, 09 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the first blog post in the docs!]]></description>

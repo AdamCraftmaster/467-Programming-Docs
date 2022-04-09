@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[969],{1041:function(s){s.exports=JSON.parse('{"allTagsPath":"/467-Programming-Docs/blog/tags","name":"docs","count":1,"permalink":"/467-Programming-Docs/blog/tags/docs"}')}}]);
