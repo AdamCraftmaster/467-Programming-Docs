@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'FRC 467 Programming Docs',
   tagline: 'Robots are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://adamcraftmaster.github.io',
+  baseUrl: '/467-Programming-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -23,12 +23,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/AdamCraftmaster/467-Programming-Docs/',
+          editUrl: 'https://github.com/AdamCraftmaster/467-Programming-Docs/tree/master',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/AdamCraftmaster/467-Programming-Docs/',
+            'https://github.com/AdamCraftmaster/467-Programming-Docs/tree/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -69,7 +69,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs',
               },
             ],
           },
@@ -95,7 +95,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/team467/',
               },
             ],
           },
