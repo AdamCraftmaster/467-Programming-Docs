@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://adamcraftmaster.github.io/blog</id>
+    <title>FRC 467 Programming Docs Blog</title>
+    <updated>2022-04-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://adamcraftmaster.github.io/blog"/>
+    <subtitle>FRC 467 Programming Docs Blog</subtitle>
+    <icon>https://adamcraftmaster.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Started documentation work]]></title>
+        <id>/2022/04/09/getting-started</id>
+        <link href="https://adamcraftmaster.github.io/blog/2022/04/09/getting-started"/>
+        <updated>2022-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the first blog post in the docs!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the first blog post in the docs!</p><p>This blog post marks the birth of FRC 467's programming docs.</p>]]></content>
+        <author>
+            <name>Adam Nativ</name>
+        </author>
+        <category label="docs" term="docs"/>
+    </entry>
+</feed>
